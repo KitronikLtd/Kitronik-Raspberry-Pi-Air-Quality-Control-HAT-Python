@@ -34,15 +34,15 @@ python test_all.py
 
 # How to use the HAT
 Below is a small section for each component on the HAT explaining how to use it.
-- [BME688](https://github.com/JackAtKitronik/Kitronik-Air-Quality-Control-HAT#bme688)
-- [OLED Display](https://github.com/JackAtKitronik/Kitronik-Air-Quality-Control-HAT#oled-display)
-- [ZIPLEDs](https://github.com/JackAtKitronik/Kitronik-Air-Quality-Control-HAT#zipleds)
-- [Real Time Clock](https://github.com/JackAtKitronik/Kitronik-Air-Quality-Control-HAT#real-time-clock)
-- [ADC](https://github.com/JackAtKitronik/Kitronik-Air-Quality-Control-HAT#adc)
-- [Buzzer](https://github.com/JackAtKitronik/Kitronik-Air-Quality-Control-HAT#buzzer)
-- [GPIO](https://github.com/JackAtKitronik/Kitronik-Air-Quality-Control-HAT#gpio)
-- [High Power Out](https://github.com/JackAtKitronik/Kitronik-Air-Quality-Control-HAT#high-power-out)
-- [Servo](https://github.com/JackAtKitronik/Kitronik-Air-Quality-Control-HAT#servo)
+- [BME688](https://github.com/KitronikLtd/Kitronik-Raspberry-Pi-Air-Quality-Control-HAT-Python#bme688)
+- [OLED Display](https://github.com/KitronikLtd/Kitronik-Raspberry-Pi-Air-Quality-Control-HAT-Python#oled-display)
+- [ZIPLEDs](https://github.com/KitronikLtd/Kitronik-Raspberry-Pi-Air-Quality-Control-HAT-Python#zipleds)
+- [Real Time Clock](https://github.com/KitronikLtd/Kitronik-Raspberry-Pi-Air-Quality-Control-HAT-Python#real-time-clock)
+- [ADC](https://github.com/KitronikLtd/Kitronik-Raspberry-Pi-Air-Quality-Control-HAT-Python#adc)
+- [Buzzer](https://github.com/KitronikLtd/Kitronik-Raspberry-Pi-Air-Quality-Control-HAT-Python#buzzer)
+- [GPIO](https://github.com/KitronikLtd/Kitronik-Raspberry-Pi-Air-Quality-Control-HAT-Python#gpio)
+- [High Power Out](https://github.com/KitronikLtd/Kitronik-Raspberry-Pi-Air-Quality-Control-HAT-Python#high-power-out)
+- [Servo](https://github.com/KitronikLtd/Kitronik-Raspberry-Pi-Air-Quality-Control-HAT-Python#servo)
 <br/>
 
 ## BME688
